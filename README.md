@@ -100,6 +100,7 @@ Prima di iniziare, assicurati di avere installato:
 ```bash
 📁 lezioni-java/
 │
+├── 📜 LICENSE            # Licenza del progetto
 ├── 📜 README.md          # Descrizione del progetto
 ├── 📁 Lezione_01/        # Introduzione e basi di Java
 │   └── Main.java
