@@ -42,6 +42,11 @@ Le lezioni sono organizzate in ordine progressivo, per accompagnarti passo dopo 
    - Operatori principali: `>`, `>=`, `<`, `<=`, `==`, `!=`.  
    - Valutazione booleana: confronti che restituiscono `true` o `false`.  
    - Utilizzo nei blocchi `if` per prendere decisioni nel codice.
+
+1. **Operatori Logici in Java**  
+   - Operatori principali: `&&` (AND), `||` (OR), `!` (NOT).  
+   - Combinazione di espressioni booleane per valutare condizioni multiple.  
+
 ---
 
 ## 🛠️ Requisiti
