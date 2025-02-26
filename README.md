@@ -15,44 +15,11 @@ Le lezioni sono organizzate in ordine progressivo, per accompagnarti passo dopo 
    - Compilazione ed esecuzione del codice
    - Il metodo `main` e le classi
 
-2. **Tipi di Dati e Variabili**
-   - Tipi primitivi (`int`, `double`, `char`, `boolean`)
-   - Variabili e costanti
-   - Operatori matematici e logici
-
-3. **Strutture di Controllo**
-   - Condizioni (`if`, `else`, `switch`)
-   - Cicli (`for`, `while`, `do-while`)
-
-4. **Metodi e Funzioni**
-   - Dichiarazione e chiamata di metodi
-   - Passaggio di parametri
-   - Valori di ritorno
-
-5. **Programmazione Orientata agli Oggetti (OOP)**
-   - Classi e oggetti
-   - Ereditarietà e polimorfismo
-   - Incapsulamento e astrazione
-
-6. **Gestione delle Eccezioni**
-   - Blocchi `try`, `catch` e `finally`
-   - Eccezioni personalizzate
-
-7. **Collezioni e Generics**
-   - Array, `ArrayList`, `HashMap`
-   - Uso dei generics
-
-8. **Input/Output (I/O)**
-   - Lettura e scrittura di file
-   - Gestione di input da tastiera
-
-9. **Thread e Concorrenza**
-   - Creazione di thread
-   - Sincronizzazione e gestione della concorrenza
-
-10. **Progetti pratici** 💡
-    - Applicazioni console
-    - Progetti finali per consolidare le competenze apprese
+2. **Tipi di Dati in Java** 
+   - Tipi primitivi: boolean, numeri interi, decimali, caratteri.  
+   - Tipi di riferimento: String, Array, Class, Interface.  
+   - Stack vs Heap: differenza nell'allocazione della memoria.  
+   - Esempi pratici: dichiarazione e utilizzo delle variabili.
 
 ---
 
