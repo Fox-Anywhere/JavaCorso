@@ -21,6 +21,12 @@ Le lezioni sono organizzate in ordine progressivo, per accompagnarti passo dopo 
    - Stack vs Heap: differenza nell'allocazione della memoria.  
    - Esempi pratici: dichiarazione e utilizzo delle variabili.
 
+3. **Input Utente in Java**  
+   - Uso di `Scanner` per leggere input dalla tastiera.  
+   - Lettura di vari tipi di dati (`String`, `int`).  
+   - Problema con `nextInt()` e `nextLine()` e soluzione.  
+   - Concatenazione di stringhe per generare output personalizzati.
+  
 ---
 
 ## 🛠️ Requisiti
