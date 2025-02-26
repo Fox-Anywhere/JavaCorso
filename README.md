@@ -37,6 +37,11 @@ Le lezioni sono organizzate in ordine progressivo, per accompagnarti passo dopo 
    - Metodi principali: `abs()`, `min()`, `max()`, `pow()`, `sqrt()`.  
    - Calcoli matematici: valore assoluto, minimo, massimo, potenze, radici quadrate.  
    - Attributo `PI`: rappresenta il valore di π.
+
+6. **Operatori di Comparazione in Java**  
+   - Operatori principali: `>`, `>=`, `<`, `<=`, `==`, `!=`.  
+   - Valutazione booleana: confronti che restituiscono `true` o `false`.  
+   - Utilizzo nei blocchi `if` per prendere decisioni nel codice.
 ---
 
 ## 🛠️ Requisiti
