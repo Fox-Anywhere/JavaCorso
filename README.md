@@ -33,6 +33,10 @@ Le lezioni sono organizzate in ordine progressivo, per accompagnarti passo dopo 
    - Incremento e decremento: `++`, `--` per modificare il valore di una variabile.  
    - Espressioni complesse combinando operatori matematici.
 
+5. **La Classe `Math` in Java**  
+   - Metodi principali: `abs()`, `min()`, `max()`, `pow()`, `sqrt()`.  
+   - Calcoli matematici: valore assoluto, minimo, massimo, potenze, radici quadrate.  
+   - Attributo `PI`: rappresenta il valore di π.
 ---
 
 ## 🛠️ Requisiti
