@@ -26,7 +26,13 @@ Le lezioni sono organizzate in ordine progressivo, per accompagnarti passo dopo 
    - Lettura di vari tipi di dati (`String`, `int`).  
    - Problema con `nextInt()` e `nextLine()` e soluzione.  
    - Concatenazione di stringhe per generare output personalizzati.
-  
+
+4. **Operazioni Aritmetiche in Java**  
+   - Operatori aritmetici: `+`, `-`, `*`, `/`, `%`.  
+   - Shorthand: `+=`, `-=`, `*=`, `/=`, `%=` per operazioni rapide.  
+   - Incremento e decremento: `++`, `--` per modificare il valore di una variabile.  
+   - Espressioni complesse combinando operatori matematici.
+
 ---
 
 ## 🛠️ Requisiti
