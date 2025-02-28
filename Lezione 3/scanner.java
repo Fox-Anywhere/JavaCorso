@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class scanner {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -19,5 +19,6 @@ public class Main {
 
         System.out.println("Ciao " + nome + ", dalle informazioni che mi hai fornito, tu ti chiami " +nome + " " +cognome + ".\nHai " +eta + " anni e abiti a " +citta);
         
+        scanner.close(); //chiuso lo scanner per non avere la segnalazione da VScode
     }
 }

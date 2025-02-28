@@ -1,23 +1,4 @@
-/*
- * Tipi di dati: Primitive & Reference
- * 
- * -boolean | true:false                                        | 1bit
- * -byte    | -128 :127                                         | 2 bytes
- * -short   | -32768 : 32767                                    | 2 bytes
- * -int     | -2 miliardi : 2 miliardi                          | 4 bytes
- * -long    | -9 quintilioni : 9 quintilioni                    | 8 bytes
- * 
- * -float   | numero con 6-7 cifre decimali 5.123526f           | 4 bytes
- * -double  | numero con 15 cifre decimali 5.123526236701522    | 8 bytes
- * 
- * -chat    | singolo carattere/lettera ASCII `f`               | 2 bytes
- * -String  | sequenza di caratteri "Ciao mondo!"               | variabile
- * 
- * -Diffrenze tra Primitive & Reference ( iniziale e attributi disponibili )
- */
-
-
-public class Main {
+public class dati {
 
     public static void main(String[] args) {
         /* Primitive */
@@ -40,6 +21,15 @@ public class Main {
         //laStringa.toUpperCase()
 
         System.out.println(laStringa.toUpperCase()); //viene utilizzata una stringa con una funzione, come in questo caso l'uppercase, che rende il testo tutto maiuscolo
+
+        System.out.println(ilBoolean);
+        System.out.println(ilByte);
+        System.out.println(loShort);
+        System.out.println(lIntero);
+        System.out.println(ilLong);
+        System.out.println(ilFloat);
+        System.out.println(ilDouble);
+        System.out.println(ilChar);
 
     }
 }

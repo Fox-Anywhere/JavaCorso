@@ -1,5 +1,4 @@
-
-public class Main {
+public class basi {
 
 	public static void main(String[] args) {
 		//Come mandare in output del testo 

@@ -52,6 +52,11 @@ Le lezioni sono organizzate in ordine progressivo, per accompagnarti passo dopo 
    - If annidati per verifiche più dettagliate. 
    - Operatore ternario per condizioni compatte.
 
+9. **Switch in Java**  
+   - Alternativa a `if-else` multipli per maggiore leggibilità.  
+   - Supporta numeri e stringhe per selezionare blocchi di codice.  
+   - Switch con espressioni lambda (Java 14+) per una sintassi più compatta.  
+   - Uso del `break` per evitare l'esecuzione dei case successivi.
 ---
 
 ## 🛠️ Requisiti

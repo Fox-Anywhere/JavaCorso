@@ -1,4 +1,4 @@
-public class Main {
+public class ifExemple {
     public static void main(String[] args) {
         /*
          * INIZIO: IF utilizzato con le stringhe e variabili

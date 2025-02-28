@@ -1,4 +1,4 @@
-public class Main {
+public class operazioniAritmetiche {
     public static void main(String[] args) {
         int primoDato = 10;
         int secondoDato = 2;

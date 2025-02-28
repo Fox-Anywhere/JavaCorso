@@ -1,4 +1,4 @@
-public class Main {
+public class operatoriDiComparazione {
     public static void main(String[] args) {
         boolean risultato = 3 > 10;
         

@@ -1,7 +1,3 @@
-Ecco il file `README.md` aggiornato con una spiegazione completa di **`public class Main`** e **`public static void main(String[] args)`**:
-
----
-
 # 📚 Lezione 1: Basi della Programmazione in Java
 
 Benvenuto alla prima lezione sulla programmazione in **Java**! In questo esempio, esploreremo i concetti fondamentali per scrivere un semplice programma Java: come mostrare output sulla console, dichiarare variabili e capire la struttura di base di un programma.
