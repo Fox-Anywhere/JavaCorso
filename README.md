@@ -63,6 +63,13 @@ Le lezioni sono organizzate in ordine progressivo, per accompagnarti passo dopo 
     - Ciclo `while`: esegue il codice solo se la condizione è vera all'inizio.  
     - Ciclo `do-while`: esegue il codice almeno una volta, poi controlla la condizione.  
     - Differenze tra `while` e `do-while` nell'esecuzione del codice.
+  
+11. **Ciclo `for` in Java**  
+    - Ciclo `for`: iterazioni con condizioni definite.  
+    - Cicli annidati: esecuzione di loop all'interno di altri loop.  
+    - For-each: iterazione semplificata su array e collezioni.  
+    - Break e Continue: controllo del flusso del ciclo.
+
 ---
 
 ## 🛠️ Requisiti
