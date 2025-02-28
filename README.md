@@ -120,30 +120,66 @@ Prima di iniziare, assicurati di avere installato:
 
 ---
 
-## 🤝 Contribuire
+## 🛠️ Come Contribuire
+1. **Fai un fork del repository**
+   - Clicca su **Fork** in alto a destra per creare una copia del repository nel tuo account GitHub.
 
-Se vuoi contribuire a questo progetto:
+2. **Clona il repository forkolato** nel tuo computer:
+   ```bash
+   git clone https://github.com/tuo-username/Java-Course.git
+   cd Java-Course
+   ```
 
-1. Fai un **fork** del repository.
-2. Crea un nuovo branch:  
+3. **Crea un nuovo branch per le tue modifiche**:
    ```bash
-   git checkout -b nome-feature
+   git checkout -b nome-del-tuo-branch
    ```
-3. Fai le tue modifiche e crea un **commit**:  
+
+4. **Apporta le modifiche e fai il commit**:
    ```bash
-   git commit -m "Aggiunta nuova lezione"
+   git add .
+   git commit -m "Descrizione delle modifiche"
    ```
-4. Fai un **push** al branch:  
+
+5. **Pusha il tuo branch su GitHub**:
    ```bash
-   git push origin nome-feature
+   git push origin nome-del-tuo-branch
    ```
-5. Crea una **pull request**.
+
+6. **Apri una Pull Request (PR)**
+   - Vai su [GitHub](https://github.com/) nel tuo fork.
+   - Clicca su **Contribute → Open pull request**.
+   - Assicurati che la PR sia indirizzata al branch `main` del repository originale.
+   - Scrivi una descrizione chiara delle modifiche.
+
+7. **Attendi la revisione**
+   - Il team manterrà la revisione delle Pull Request.
+   - Potremmo chiedere modifiche prima dell’approvazione.
+   - Una volta approvata, la tua modifica verrà unita al branch `main`.
+
+## 📌 Regole Importanti
+- **Non modificare il branch `main` direttamente**.
+- **Scrivi commit chiari e descrittivi**.
+- **Segui lo stile del codice già presente**.
+- **Le modifiche devono essere testate prima di inviare una PR**.
+- **Usa `Issues` per suggerire miglioramenti o segnalare problemi**.
+
+Grazie per il tuo contributo! 🚀
 
 ---
 
 ## 📜 Licenza
 
 Questo progetto è distribuito sotto licenza [MIT](LICENSE).
+
+---
+
+## 🎓 Crediti e Riferimenti
+
+Questo corso è basato sulla playlist di **Edoardo Midali** su YouTube.  
+Puoi trovare il corso originale qui:  
+📺 **[Playlist: Programmazione in Java](https://youtube.com/playlist?list=PLP5MAKLy8lP9wbmTi6c4-tmqzyOtLglGP&si=R7jk91BIq-LntIB7)**  
+👤 **[Canale di Edoardo Midali](https://www.youtube.com/@EdoardoMidali)**  
 
 ---
 
