@@ -57,6 +57,12 @@ Le lezioni sono organizzate in ordine progressivo, per accompagnarti passo dopo 
    - Supporta numeri e stringhe per selezionare blocchi di codice.  
    - Switch con espressioni lambda (Java 14+) per una sintassi più compatta.  
    - Uso del `break` per evitare l'esecuzione dei case successivi.
+
+10. **Cicli `while` e `do-while` in Java**  
+    - Concetto di ciclo: ripetere un blocco di codice finché una condizione è vera.  
+    - Ciclo `while`: esegue il codice solo se la condizione è vera all'inizio.  
+    - Ciclo `do-while`: esegue il codice almeno una volta, poi controlla la condizione.  
+    - Differenze tra `while` e `do-while` nell'esecuzione del codice.
 ---
 
 ## 🛠️ Requisiti
