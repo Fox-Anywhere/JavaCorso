@@ -78,7 +78,7 @@ Prima di iniziare, assicurati di avere installato:
 1. Clona il repository:
 
    ```bash
-   git clone https://github.com/tuo-username/lezioni-java.git
+   git clone https://github.com/Fox-Anywhere/JavaCorso.git
    cd lezioni-java
    ```
 
