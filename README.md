@@ -70,6 +70,12 @@ Le lezioni sono organizzate in ordine progressivo, per accompagnarti passo dopo 
     - For-each: iterazione semplificata su array e collezioni.  
     - Break e Continue: controllo del flusso del ciclo.
 
+12. **Array in Java**  
+    - Definizione di Array: struttura dati per memorizzare più valori dello stesso tipo.  
+    - Creazione e modifica: inizializzazione, assegnazione e modifica di elementi.  
+    - Lunghezza dell'Array: ottenibile con `.length`.  
+    - Iterazione: utilizzo di `for` classico e `for-each` per scorrere gli elementi.
+
 ---
 
 ## 🛠️ Requisiti
