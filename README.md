@@ -43,9 +43,14 @@ Le lezioni sono organizzate in ordine progressivo, per accompagnarti passo dopo 
    - Valutazione booleana: confronti che restituiscono `true` o `false`.  
    - Utilizzo nei blocchi `if` per prendere decisioni nel codice.
 
-1. **Operatori Logici in Java**  
+7. **Operatori Logici in Java**  
    - Operatori principali: `&&` (AND), `||` (OR), `!` (NOT).  
    - Combinazione di espressioni booleane per valutare condizioni multiple.  
+
+8. **Condizioni con `if` in Java**  
+   - Strutture condizionali: `if`, `else if`, `else`.  
+   - If annidati per verifiche più dettagliate. 
+   - Operatore ternario per condizioni compatte.
 
 ---
 
