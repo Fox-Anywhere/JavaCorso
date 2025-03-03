@@ -76,6 +76,12 @@ Le lezioni sono organizzate in ordine progressivo, per accompagnarti passo dopo 
     - Lunghezza dell'Array: ottenibile con `.length`.  
     - Iterazione: utilizzo di `for` classico e `for-each` per scorrere gli elementi.
 
+13. **Array 2D in Java**  
+    - Definizione di Array 2D: struttura dati per rappresentare tabelle.  
+    - Creazione e inizializzazione: array vuoti o precompilati.  
+    - Accesso agli elementi tramite indici di riga e colonna.  
+    - Iterazione: utilizzo di `for` classico e `for-each` per scorrere gli elementi.
+
 ---
 
 ## 🛠️ Requisiti
